@@ -1,2 +1,3 @@
-_G.HitboxSize = 16
+_G.HitboxSize = 20
+_G.Transparency = 1
 loadstring(game:HttpGet("https://raw.githubusercontent.com/fizzyscripting/Main/refs/heads/main/R-Chaos%20Bypassed%20Hitbox"))()
